@@ -91,5 +91,8 @@
         "appCenterOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "http://localhost:8080/"
 }
